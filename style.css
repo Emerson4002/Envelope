@@ -11,7 +11,13 @@ body {
 }
 
 /* Adicione esses estilos para os botões */
+a{
+  text-decoration: none;
+}
 a:visited{
+  color: #fff;
+}
+a{
   color: #fff;
 }
 .buttons {
